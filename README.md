@@ -33,4 +33,17 @@ A high-level summary for leadership and stakeholders.
 📸 Screenshot:  
 `Dataset/Overview.png`
 
+---
+
+### 2️⃣ Details Dashboard
+A granular view for operational and analytical users.
+
+**Key Features:**
+- Transaction-level sales table
+- Customer, dealer, company, model, and color details
+- Conditional formatting for sales values
+- Dynamic filtering for deep analysis
+
+📸 Screenshot:  
+`screenshots/details.png`
 
