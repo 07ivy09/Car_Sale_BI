@@ -31,6 +31,6 @@ A high-level summary for leadership and stakeholders.
 - Company-wise sales performance table
 
 📸 Screenshot:  
-`Dataset/overview.png`
+`Dataset/Overview.png`
 
 
