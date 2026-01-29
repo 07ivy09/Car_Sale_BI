@@ -30,4 +30,7 @@ A high-level summary for leadership and stakeholders.
   - Dealer Region (Map)
 - Company-wise sales performance table
 
+📸 Screenshot:  
+`Dataset/overview.png`
+
 
